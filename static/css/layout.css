@@ -16,3 +16,10 @@ h1{
     font-size:25px;
     text-transform:capitalize;
 }
+
+nav a{
+    color:white;
+    font-size:25px;
+    text-transform:uppercase;
+}
+
