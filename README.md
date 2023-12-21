@@ -4,6 +4,6 @@
 - Contact page
 
 ## Features to add
-- Navbar completed: no
+- Navbar completed: yes
 - Footer completed: no
 - Sidebar completed: no
