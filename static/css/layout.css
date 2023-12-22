@@ -17,9 +17,6 @@ h1{
     text-transform:capitalize;
 }
 
-<<<<<<< HEAD
-=======
-
 
 /* FEATURE NAVBAR */
 nav{
@@ -30,15 +27,15 @@ nav{
     color:white;
     height:30px;
 }
->>>>>>> FeatureFooter1
+
 nav a{
     color:white;
     font-size:25px;
     text-transform:uppercase;
 }
 
-<<<<<<< HEAD
-=======
+
+
 /* FEATURE FOOTER 1 */
 footer{
     background-color:midnightblue;
@@ -57,4 +54,4 @@ footer a{
     margin:10px;
 }
 
->>>>>>> FeatureFooter1
+
