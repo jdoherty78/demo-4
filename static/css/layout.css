@@ -55,7 +55,9 @@ footer a{
 }
 
 
-/* SIDEBAR 2 REd */
+
+/* SIDEBAR 1 SEAGREEN */
+
 
 #sidebar{
     position:absolute;
@@ -63,7 +65,9 @@ footer a{
     top:30px;
     width:400px;
 
-    background-color:red;
+
+    background-color:seaGreen;
+
 
     z-index:200;
     left:0;
