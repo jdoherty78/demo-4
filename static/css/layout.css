@@ -55,3 +55,36 @@ footer a{
 }
 
 
+/* SIDEBAR 2 REd */
+
+#sidebar{
+    position:absolute;
+    height:80%;
+    top:30px;
+    width:400px;
+
+    background-color:red;
+
+    z-index:200;
+    left:0;
+    margin-left:-400px;
+    transition:0.3s ease-out;
+}
+
+#sidebar-checkbox{display:none;}
+#burger{
+    position:relative;
+    top:5px;
+    cursor:pointer;
+    transform:rotate(90deg);
+}
+#burger span{
+    border:2px solid midnightblue;
+    margin:2px; 
+    rotateX(90deg);
+}
+
+#sidebar-checkbox:checked ~ #sidebar{
+    margin-left:0px;
+    transition:0.3s ease-in;
+}

@@ -6,4 +6,4 @@
 ## Features to add
 - Navbar completed: yes
 - Footer completed: yes
-- Sidebar completed: no
+- Sidebar completed: yes
